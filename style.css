@@ -15,6 +15,9 @@ body {
 #body {
     background-color: var(--cor-principal);
 }
+p {
+    color: var(--cor-branco);
+}
 .lead {
     font-weight: 700;
     color: var(--cor-branco);
