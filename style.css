@@ -15,11 +15,18 @@ body {
 #body {
     background-color: var(--cor-principal);
 }
+.funcao {
+    color: var(--cor-branco);
+}
 p {
     color: var(--cor-branco);
 }
 .lead {
     font-weight: 700;
+    color: var(--cor-branco);
+}
+.titulo_habilidades {
+    font-size: 25px;
     color: var(--cor-branco);
 }
 #rodape {
